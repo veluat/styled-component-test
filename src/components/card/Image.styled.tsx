@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import img from "../../assets/images/Rectangle 1.svg"
+import img from "../../assets/images/Rectangle.svg"
 
 export const Image = styled.div`
   background-image: url('${img}');
