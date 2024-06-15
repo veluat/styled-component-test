@@ -1,11 +1,10 @@
 import React from 'react';
-import {Card} from "./Card";
-import {AppStyle} from "./components/card/App.styled";
+import {Card} from "../components/card/Card";
+import {AppStyle} from "./App.styled";
 
 function App() {
     return (
         <AppStyle>
-            {/*<AppTest/>*/}
             <Card/>
         </AppStyle>
     );

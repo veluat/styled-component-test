@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const ButtonContainer = styled.div`
+export const ButtonsContainer = styled.div`
   display: flex;
   justify-content: flex-start;
   margin: 20px;

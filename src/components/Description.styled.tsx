@@ -1,7 +1,7 @@
 import styled from "styled-components";
-import {theme} from "../../styles/Theme.styled";
+import {theme} from "../styles/Theme.styled";
 
-export const Text = styled.div`
+export const Description = styled.div`
   color: ${theme.colors.grey.light};
   font-size: 12px;
   font-weight: 500;
