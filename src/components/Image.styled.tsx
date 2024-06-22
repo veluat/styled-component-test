@@ -9,6 +9,6 @@ export const Image = styled.div`
     transition: transform 0.3s ease;
     
     &:hover {
-        transform: scale(4);
+        transform: translateY(3px);
     }
 `
